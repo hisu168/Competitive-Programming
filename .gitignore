@@ -1,5 +1,6 @@
 # Folder cấu hình VS Code
 .vscode/
+.cph/
 
 # Các file thực thi và object
 *.exe
