@@ -1,0 +1,14 @@
+# Folder cấu hình VS Code
+.vscode/
+
+# Các file thực thi và object
+*.exe
+*.o
+*.out
+
+# Các file dữ liệu vào/ra cá nhân
+*.inp
+*.out
+
+# File tạm của VS Code
+tempCodeRunnerFile.cpp
