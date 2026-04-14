@@ -1,0 +1,1 @@
+string cmd = "\"" + SOLVER_PATH + "\" < " + inFile + " > " + outFile;
