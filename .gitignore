@@ -14,3 +14,7 @@ Hisu/
 
 # File tạm của VS Code
 tempCodeRunnerFile.cpp
+
+# File khác
+*.pdf
+*.log
